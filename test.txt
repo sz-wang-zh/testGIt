@@ -3,7 +3,7 @@ hello change
 googbye change from hello
 hello 
 hello 
-hello 
+hello master second insert
 hello master
 hello hot-fix 
 this message come from github web
