@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello hello hello 
+=======
+<<<<<<<
+hello hello hello master
+>>>>>>> test
 gjskl  :::his i:wq
 =======
 hello hello hello mast
