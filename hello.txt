@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 hello hello hello master
 gjskl  :::his i:wq
+=======
+hello hello hello mast
+:twice 合并 fix2 er hello git  333
+>>>>>>> test
 hello loal got-fix
 test add master
 master master
