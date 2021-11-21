@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<<
 hello hello hello master
 gjskl  :::his i:wq
 =======
